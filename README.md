@@ -12,3 +12,4 @@ Exempel:
 - git push
 - git commit
 - git clone
+- git merge
